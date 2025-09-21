@@ -27,6 +27,9 @@ The script configures the scratchpad as a floating window positioned in the cent
 
 ## Installation
 
+Dependencies:
+- jq
+
 Download script, put it in your path and make it executable:
 
 ```
