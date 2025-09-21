@@ -27,8 +27,7 @@ The script configures the scratchpad as a floating window positioned in the cent
 
 ## Installation
 
-Dependencies:
-- jq
+[jq](https://jqlang.org/download/) is a dependency and must be installed.
 
 Download script, put it in your path and make it executable:
 
